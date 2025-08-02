@@ -1,1 +1,0 @@
-Blog web application 
